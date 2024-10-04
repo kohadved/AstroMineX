@@ -34,9 +34,9 @@ Welcome to **Galactic Mining Hub**, where we push the boundaries of space explor
 ---
 
 ### 🌐 Get in Touch
-If you have any questions, suggestions, or want to connect, reach out to me on [LinkedIn](https://www.linkedin.com/in/devanik/). Let’s chat about the future of space exploration!
+If you have any questions, suggestions, or want to connect, reach out to me on [LinkedIn](https://www.linkedin.com/in/vedant-kohad). Let’s chat about the future of space exploration!
 
 ---
 
-**Built by Devanik**, a passionate developer and space enthusiast, Galactic Mining Hub is more than just a tool—it's your gateway to the stars.
+**Built by Vedant**, a passionate developer and space enthusiast, Galactic Mining Hub is more than just a tool—it's your gateway to the stars.
 """)
