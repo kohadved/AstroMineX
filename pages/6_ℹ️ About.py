@@ -1,10 +1,10 @@
 import streamlit as st
 
 # About page content
-st.title("👽 About Galactic Mining Hub")
+st.title("👽 About AstroMineX")
 
 st.markdown("""
-Welcome to **Galactic Mining Hub**, where we push the boundaries of space exploration! This platform is engineered to transform data into actionable insights, helping to guide the next generation of space mining operations.
+Welcome to **AstroMineX**, where we push the boundaries of space exploration! This platform is engineered to transform data into actionable insights, helping to guide the next generation of space mining operations.
 
 ### 🎯 Our Mission
 - **Predict Potential:** Use advanced algorithms to assess the viability of mining sites across celestial bodies.
@@ -38,5 +38,5 @@ If you have any questions, suggestions, or want to connect, reach out to me on [
 
 ---
 
-**Built by Vedant**, a passionate developer and space enthusiast, Galactic Mining Hub is more than just a tool—it's your gateway to the stars.
+**Built by Vedant**, a passionate developer and space enthusiast, AstroMineX is more than just a tool—it's your gateway to the stars.
 """)
