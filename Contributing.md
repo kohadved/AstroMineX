@@ -16,7 +16,7 @@ Thank you for considering contributing to the Galactic Mining Hub! We appreciate
 1. **Fork the repository** to your own GitHub account.
 2. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ISRO_Mining_Site_FINAL_APP.git
+   git clone https://github.com/kohadved/AstroMineX.git
    ```
 3. **Set up the project** by following the instructions in the `README.md` file.
 4. **Make your changes** and implement the features or fixes you want to contribute.
@@ -62,6 +62,6 @@ In brief:
 
 If you enjoy working with us, please give the project a ⭐ star! Your support means a lot and encourages further contributions. 
 
-Thank you for your interest in contributing to the Galactic Mining Hub! Your contributions help enhance the capabilities of this project. 
+Thank you for your interest in contributing to the AstroMineX! Your contributions help enhance the capabilities of this project. 
 
 Happy coding! 🌌
