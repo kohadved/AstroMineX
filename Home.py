@@ -2,7 +2,7 @@ import streamlit as st
 
 # Configure the page with a modern theme and a custom icon
 st.set_page_config(
-    page_title="Galactic Mining Hub",
+    page_title="AstroMineX",
     page_icon="🌌",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -24,11 +24,11 @@ with st.sidebar:
         "🔍 **Adjust Sensitivity for Outlier Detection**",
         options=["Low", "Medium", "High"]
     )
-    st.title("🪐 **Galactic Mining Hub**")
+    st.title("🪐 **AstroMineX**")
     st.subheader("Deep dive into the infinite cosmic sea!")
     st.markdown(
         """
-        **Galactic Mining Hub** is a cutting-edge platform that leverages advanced
+        **AstroMineX** is a cutting-edge platform that leverages advanced
         Machine Learning and Data Science techniques to revolutionize space mining 
         exploration. Dive deep into the cosmos to discover valuable mining sites
         across the galaxy.
@@ -39,14 +39,14 @@ with st.sidebar:
     with st.expander("🌟 **Project Overview**"):
         st.markdown(
             """
-            ## 🚀 **Galactic Mining Hub**
+            ## 🚀 **AstroMineX**
 
             This initiative is at the forefront of space exploration, aiming to identify 
             and evaluate mining sites on distant celestial bodies using sophisticated 
             AI algorithms. Developed to push the boundaries of what's possible in 
             extraterrestrial resource extraction.
 
-            **Developer:** [Devanik](https://www.linkedin.com/in/devanik/)
+            **Developer:** [Team Vigyaan]()
             """
         )
     st.markdown(
@@ -66,7 +66,7 @@ with st.sidebar:
 st.markdown(
     """
     <div style="text-align: center; margin-top: 50px;">
-        <h1>🛰️ <strong>Galactic Mining Hub</strong></h1>
+        <h1>🛰️ <strong>AstroMineX</strong></h1>
         <h2><em>Explore, Analyze, and Discover Cosmic Mining Sites with Advanced AI</em></h2>
     </div>
     """,
@@ -78,7 +78,7 @@ st.divider()
 # Information and interactive section
 st.markdown(
     f"""
-    **Welcome to Galactic Mining Hub**, a premier platform that combines the power of 
+    **Welcome to AstroMineX**, a premier platform that combines the power of 
     **Machine Learning** and **Data Science** to unlock the secrets of the universe. 
     Our hub provides a comprehensive toolkit for space mining analysis, from predictive 
     modeling to in-depth data insights, designed to support informed decision-making 
