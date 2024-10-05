@@ -1,10 +1,10 @@
-# 🌌 Galactic Mining Hub
+# 🌌 AstroMineX
 
-**Galactic Mining Hub** is an advanced Machine Learning-based platform designed to assist in the exploration and evaluation of potential mining sites across different celestial bodies. This project showcases the capabilities of ML in space mining exploration, providing predictive insights, recommendations, and detailed analysis of mining site data.
+**AstroMineX** is an advanced Machine Learning-based platform designed to assist in the exploration and evaluation of potential mining sites across different celestial bodies. This project showcases the capabilities of ML in space mining exploration, providing predictive insights, recommendations, and detailed analysis of mining site data.
 
 ## 🚀 Project Overview
 
-The **Galactic Mining Hub** was developed to serve as an advanced web platform for analyzing and recommending mining sites based on user preferences. The platform features interactive visualizations, insightful analyses, and personalized recommendations, making it a comprehensive tool for anyone interested in space mining.
+The **AstroMineX** was developed to serve as an advanced web platform for analyzing and recommending mining sites based on user preferences. The platform features interactive visualizations, insightful analyses, and personalized recommendations, making it a comprehensive tool for anyone interested in space mining.
 
 Developed by: **Vedant**
 
