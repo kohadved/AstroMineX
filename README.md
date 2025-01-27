@@ -91,3 +91,4 @@ Interact with the application by selecting features, adjusting parameters, and e
 
 Review the insights and visualizations generated to inform your decision-making process regarding space mining opportunities.
 
+Thank You !
